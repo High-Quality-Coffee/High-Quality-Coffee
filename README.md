@@ -1,4 +1,9 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=280&section=header&text=High-Quality-Coffee&desc=this%20is%20my%20life&descAlignY=67&fontSize=60)
+
+
+
+
 
 <!--
 **High-Quality-Coffee/High-Quality-Coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
