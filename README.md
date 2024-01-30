@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=280&section=header&text=High-Quality-Coffee&desc=mikasa_dev%20is&descAlignY=67&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=280&section=header&text=High-Quality-Coffee&desc=mikasa_dev&descAlignY=67&fontSize=60)
 
 
 
