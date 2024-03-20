@@ -51,7 +51,7 @@
 
 <br>
 
-### 😎 Experiences
+<h2> 😎 Experiences </h2>
   <li><b><a>LikeLion 11th ~ 12th</a></b> - member / manager <i>(2023.03~)</i></li>
   <li><b><a>UDR</a></b> - member / mento <i>(2023.03~)</i></li>
   <li><b><a>Season</a></b> - intern <i>(2024.01 ~ 2024.02)</i></li></li>
