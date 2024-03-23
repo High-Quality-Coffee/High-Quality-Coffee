@@ -20,8 +20,7 @@
   <h2>💻 Stacks & Links</h2>
   ✉️ highqc24@naver.com
   <br> ⭐️ luna_w_14
-  <br> 🔗 https://velog.io/@gw2000sk  
-  <br>
+  <br><br>
     
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gw2000sk)](https://velog.io/@gw2000sk/posts)
   
