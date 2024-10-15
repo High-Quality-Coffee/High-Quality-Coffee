@@ -22,14 +22,9 @@
 
 <div align="center">
   <span>
-  <h2>💻 Stacks & Links</h2>
-  ✉️ highqc24@naver.com
-  <br> ⭐️ luna_w_14
-  <br><br>
-    
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gw2000sk)](https://velog.io/@gw2000sk/posts)
+  <h2>💻 Stacks</h2>
   
-  <br><br>
+  <br>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -51,19 +46,21 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
   </span>
+  <br><br>
+
+[![High-Quality-Coffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=High-Quality-Coffee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=High-Quality-Coffee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+
 </div>
 
-<br>
 
 <h2> 😎 Experiences </h2>
-  <li><b><a>LikeLion 11th ~ 12th</a></b> - member / manager <i>(2023.03~)</i></li>
-  <li><b><a>UDR</a></b> - member / mento <i>(2023.03~)</i></li>
-  <li><b><a>Season</a></b> - intern <i>(2024.01 ~ 2024.02)</i></li></li>
-
-
-
-
-
+  <li><b><a>LikeLion 11th ~ 12th</a></b> - member / manager <i>(2023.03 ~)</i></li>
+  <li><b><a>UDR</a></b> - member / mento <i>(2023.03 ~)</i></li>
+  <li><b><a>Season</a></b> - intern <i>(2024.01.01 ~ 2024.02.29)</i></li>
+  <li><b><a>Weven</a></b> - intern <i>(2024.04.01 ~ 2024.08.31)</i></li>
+  <li><b><a>Dadol</a></b> - intern <i>(2024.10.07 ~)</i></li></li>
 
 
 <!--
