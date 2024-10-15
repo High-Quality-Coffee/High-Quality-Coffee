@@ -1,17 +1,7 @@
-
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=280&section=header&text=High-Quality-Coffee&desc=mikasa_dev&descAlignY=67&fontSize=60)
-
-
-
-
-
 <div align="center">
-  안녕하세요! ✨
-  <br><br>
-  매일매일 나 자신이 부족한 것을 깨닫습니다.<br>
-  👊 나중에 나를 되돌아 보았을 때, 후회하는 모습을 보지 않기 위해서 노력하고 또 노력하려고 합니다. 
-  <br>
+  <h2>Hi👋  I'm Park Gyu Won. I wanna be a good Software Engineer 😆</h2>
+
+  안녕하세요! 다양한 소프트웨어 개발을 공부하고 있는 박규원 입니다! 🌟
   <br>
 </div>
 
@@ -34,17 +24,10 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=Angular&logoColor=white">
   <br>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-  <br>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
   </span>
   <br><br>
 
