@@ -39,8 +39,8 @@
 
 
 <h2> 😎 Experiences </h2>
-  <li><b><a>LikeLion 11th ~ 12th</a></b> - member / manager <i>(2023.03 ~)</i></li>
-  <li><b><a>UDR</a></b> - member / mento <i>(2023.03 ~)</i></li>
+  <li><b><a>LikeLion 11th ~ 12th</a></b> - member <i>(2023.03 ~)</i>  / manager <i>(2023.09 ~)</i></li>
+  <li><b><a>UDR</a></b> - member <i>(2023.03 ~)</i> / mento <i>(2023.09 ~)</i></li>
   <li><b><a>Season</a></b> - intern <i>(2024.01.01 ~ 2024.02.29)</i></li>
   <li><b><a>Weven</a></b> - intern <i>(2024.04.01 ~ 2024.08.31)</i></li>
   <li><b><a>Dadol</a></b> - intern <i>(2024.10.07 ~)</i></li></li>
