@@ -35,6 +35,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=High-Quality-Coffee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 
+<br>
+<div>
+  <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/High-Quality-Coffee"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
 </div>
 
 
