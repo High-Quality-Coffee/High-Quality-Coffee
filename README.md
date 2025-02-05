@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Hi👋  I'm Park Gyu Won. I wanna be a good Software Engineer 😆</h2>
+  <h2>Hi👋  I'm Gyu Won. I wanna be a good Software Engineer 😆</h2>
 
-  안녕하세요! 다양한 소프트웨어 개발을 공부하고 있는 박규원 입니다! 🌟
+  안녕하세요! 소프트웨어 엔지니어가 되고싶은 박규원 입니다! 🌟
   <br>
 </div>
 
