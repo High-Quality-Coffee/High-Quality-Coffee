@@ -1,7 +1,7 @@
 <div align="center">
-  <h2> I'm Won! Let's be a good Coder 😆</h2>
+  <h2> I'm Won! 😆</h2>
 
-  안녕하세요 박규원입니다! <br/> 좋은 코드를 작성하고 싶어요 🌟
+  안녕하세요 박규원입니다! <br/> 개발하면서 근거와 명분 찾는 것을 중요시 여기는 편입니다! 🌟
   <br>
 </div>
 
@@ -52,7 +52,10 @@
 
 [![High-Quality-Coffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=High-Quality-Coffee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=High-Quality-Coffee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=High-Quality-Coffee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gw2000sk" alt="Solved.ac Profile" />
+</div>
 
 <br>
 <div>
