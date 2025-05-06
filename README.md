@@ -1,8 +1,16 @@
-<div align="center">
-  <h2> I'm Won! 😆</h2>
+<div>
+  <h2>🇰🇷 Park Gyu Won (call me Won)</h2>
+</div>
 
-  안녕하세요 박규원입니다! <br/> 개발하면서 근거와 명분 찾는 것을 중요시 여기는 편입니다! 🌟
-  <br>
+
+</br>
+
+<div>
+  <h2>💁 About Me</h2>
+  I'm currently diving deep into Java and Spring Boot development. I'm also passionate about infrastructure and have been exploring AWS Cloud services to operate my services.✏️ </br></br>
+  I also have experience developing client-side applications with React, as well as server-side development using JavaScript and PHP (in Internship).🧑‍💻</br></br>
+  I wanna be a software engineer who truly meets the needs of clients.🌟 </br></br>
+  Technically, I like to find reasons for everything.🤔
 </div>
 
 
@@ -10,7 +18,7 @@
 <br>
 <br>
 
-<div align="center">
+<div>
   <span>
   <h2>💻 Stacks</h2>
   
@@ -35,11 +43,10 @@
 
 </br>
 </br>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-
+    <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </br>
 </br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="docker">
@@ -72,8 +79,8 @@
 
 
 <h2> 😎 Experiences </h2>
-  <li><b><a>LikeLion 11th ~ 12th</a></b> - member <i>(2023.03 ~)</i>  / manager <i>(2023.09 ~)</i></li>
-  <li><b><a>UDR</a></b> - member <i>(2023.03 ~)</i> / mento <i>(2023.09 ~)</i></li>
+  <li><b><a>LikeLion 11th ~ 12th</a></b> - member <i>(2023.03 ~ 2024.12.31)</i>  / manager <i>(2023.09 ~ 2024.12.31)</i></li>
+  <li><b><a>UDR</a></b> - member <i>(2023.03 ~ 2024.12.31)</i> / mento <i>(2023.09 ~ 2024.12.31)</i></li>
   <li><b><a>Season</a></b> - intern <i>(2024.01.01 ~ 2024.02.29)</i></li>
   <li><b><a>Weven</a></b> - intern <i>(2024.04.01 ~ 2024.08.31)</i></li>
   <li><b><a>Dadol</a></b> - intern <i>(2024.10.07 ~ 2024.12.27)</i></li></li>
