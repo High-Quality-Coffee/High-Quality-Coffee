@@ -1,5 +1,5 @@
 <div>
-  <h2>🇰🇷 Park Gyu Won (call me Won)</h2>
+  <h2>🇰🇷 Park Gyu Won (WON)</h2>
 </div>
 
 
