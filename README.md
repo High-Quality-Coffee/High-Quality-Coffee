@@ -1,7 +1,7 @@
 <div>
   <h2>🇰🇷 Park Gyu Won (WON)</h2>
 </div>
-
+<span>Good developers create products that fulfill customer needs.</span>
 
 </br>
 
