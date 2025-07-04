@@ -4,12 +4,13 @@
 <span>Good developers create products that fulfill customer needs.</span>
 
 </br>
+</br>
 
 <div>
   <h2>💁 About Me</h2>
-  I'm currently diving deep into Java and Spring Boot development. I'm also passionate about infrastructure and have been exploring AWS Cloud services to operate my services.✏️ </br></br>
-  I also have experience developing client-side applications with React, as well as server-side development using JavaScript and PHP (in Internship).🧑‍💻</br></br>
-  I wanna be a software engineer who truly meets the needs of clients.🌟 </br></br>
+  I'm currently focus on Java and Spring Boot. I've been studying server infra and AWS Cloud services.✏️ </br></br>
+  I also have experience developing client-side software using React, as well as server-side software using JavaScript and PHP (in Internship)</br></br>
+  I wanna be a software engineer who fulfills the needs of clients.🌟 </br></br>
   Technically, I like to find reasons for everything.🤔
 </div>
 
@@ -76,6 +77,7 @@
 </div>
 
 </div>
+</br>
 
 
 <h2> 😎 Experiences </h2>
