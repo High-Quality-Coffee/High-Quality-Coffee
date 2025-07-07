@@ -58,12 +58,18 @@
   </span>
   <br><br>
 
-[![High-Quality-Coffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=High-Quality-Coffee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gw2000sk" alt="Solved.ac Profile" />
 
+</br></br>
+<h2>🌟 GitHub</h2>
+</br>
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=High-Quality-Coffee&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gw2000sk" alt="Solved.ac Profile" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=High-Quality-Coffee&exclude_repo=dkssud8150.github.io&layout=compact&theme=cobalt" alt="Top Languages" />
 </div>
+
+</br>
+
+[![High-Quality-Coffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=High-Quality-Coffee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <div>
