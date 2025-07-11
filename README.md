@@ -87,11 +87,14 @@
 
 
 <h2> 😎 Experiences </h2>
-  <li><b><a>LikeLion 11th ~ 12th</a></b> - member <i>(2023.03 ~ 2024.12.31)</i>  / manager <i>(2023.09 ~ 2024.12.31)</i></li>
-  <li><b><a>UDR</a></b> - member <i>(2023.03 ~ 2024.12.31)</i> / mento <i>(2023.09 ~ 2024.12.31)</i></li>
-  <li><b><a>Season</a></b> - intern <i>(2024.01.01 ~ 2024.02.29)</i></li>
-  <li><b><a>Weven</a></b> - intern <i>(2024.04.01 ~ 2024.08.31)</i></li>
   <li><b><a>Dadol</a></b> - intern <i>(2024.10.07 ~ 2024.12.27)</i></li></li>
+  <li><b><a>Weven</a></b> - project intern <i>(2024.04.01 ~ 2024.08.31)</i></li>
+  <li><b><a>Season</a></b> - intern <i>(2024.01.01 ~ 2024.02.29)</i></li>
+  <li><b><a>LikeLion 11th ~ 12th</a></b> - member <i>(2023.03 ~ 2024.12.31)</i>  / manager <i>(2023.09 ~ 2024.12.31)</i></li>
+  <li><b><a>UDR(UnderDogRevolution)</a></b> - member <i>(2023.03 ~ 2024.12.31)</i> / mento <i>(2023.09 ~ 2024.12.31)</i></li>
+  
+  
+  
 
 
 <!--
